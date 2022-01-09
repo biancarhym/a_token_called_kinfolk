@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf3bfe641762514be42f0cb51538c23f5858306f8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xc84e9b54ca361803f201ef4253f39b8642dfe5bf5ccd0961720dddcea55491e6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "a token called kinfolk NFT",
+  "SYMBOL": "ATCK",
+  "MAX_SUPPLY": 46080,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/a-token-called-kinfolk-v2",
+  "SHOW_BACKGROUND": true
+}
